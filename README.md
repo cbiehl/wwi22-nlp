@@ -17,4 +17,4 @@ November 2024 - Januar 2025
 
 
 ## Forum & Materialien
-- [Moodle](https://moodle.dhbw-mannheim.de) (tbd)
+- [Moodle](https://moodle.dhbw-mannheim.de/course/view.php?id=12486)
